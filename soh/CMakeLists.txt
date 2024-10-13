@@ -251,6 +251,7 @@ set(ALL_FILES
     ${soh__Extractor}
     ${soh__Resource}
     ${src__}
+		soh/Enhancements/archipelago/ArchipelagoClient.h
 )
 
 ################################################################################
